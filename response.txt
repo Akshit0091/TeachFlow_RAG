@@ -1,0 +1,3 @@
+Video No: 1
+Time Range: 64.0 - 69.0
+Explanation: The topic of flowcharts is covered in the first video, where it's mentioned that we will be practicing our flowchart and pseudocode by writing or drawing.
