@@ -9,12 +9,12 @@ Below is the list of video subtitle chunks. Each chunk contains:
 - transcript text spoken in that time range
 
 Here are the chunks:
-[{"title":"What are Flowcharts-","number":"","start":64.0,"end":69.0,"text":" on which we will be practicing our flowchart and pseudocode by writing or drawing"},{"title":"What are Flowcharts-","number":"","start":52.0,"end":58.0,"text":" flowchart and pseudocode are the logical building blocks of coding that we will be learning in this chapter"},{"title":"Print N Natural Numbers","number":"","start":54.96,"end":57.96,"text":" so how will the flowchart look like?"},{"title":"Max of 2 Numbers","number":"","start":149.52,"end":151.52,"text":" different flowcharts can be created"},{"title":"Data Types in C++","number":"","start":522.08,"end":524.08,"text":" what does float do?"}]
+[{"title":"Print N Natural Numbers","number":"","start":54.96,"end":57.96,"text":" so how will the flowchart look like?"},{"title":"What are Flowcharts-","number":"","start":64.0,"end":69.0,"text":" on which we will be practicing our flowchart and pseudocode by writing or drawing"},{"title":"What are Flowcharts-","number":"","start":52.0,"end":58.0,"text":" flowchart and pseudocode are the logical building blocks of coding that we will be learning in this chapter"},{"title":"Print N Natural Numbers","number":"","start":399.52,"end":403.6,"text":" now how will we convert this flowchart into a pseudocode?"},{"title":"Max of 2 Numbers","number":"","start":149.52,"end":151.52,"text":" different flowcharts can be created"}]
 
 ----------------------------------------------------
 
 The user asked the following question:
-"Where is Flowcharts taught in this course?"
+"Where is flowcharts taught in this course?"
 
 Your task:
 1. Understand the user's question.
